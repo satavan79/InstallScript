@@ -1,0 +1,2 @@
+# InstallScript
+Odoo Install Script
