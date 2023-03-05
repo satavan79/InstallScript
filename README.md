@@ -24,9 +24,12 @@ INSTALL_NGINX and ENABLE_SSL must be set to True and the placeholder in ADMIN_EM
 By enabling SSL though Let's Encrypt you agree to the following policies
 
 3. Make the script executable:
+
 sudo chmod +x odoo_install.sh
+
 4. Execute the script:
 sudo ./odoo_install.sh
+
 Where should I host Odoo?
 There are plenty of great services that offer good hosting. The script has been tested with a few major players such as Google Cloud, Hetzner, Amazon AWS and DigitalOcean. If you'd like you can use my DigitalOcean referral link which gives you a 200$ voucher for free for the first 60 days.
 
